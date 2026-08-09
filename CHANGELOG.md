@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.2](https://github.com/vergissberlin/node-red-contrib-say/compare/node-red-contrib-say-v0.4.1...node-red-contrib-say-v0.4.2) (2026-08-09)
+
+
+### Bug Fixes
+
+* **ci:** allow manually re-triggering npm publish for a tag ([5a6ed54](https://github.com/vergissberlin/node-red-contrib-say/commit/5a6ed5407f2e3ad14f856f09a00ec58773ee4a13))
+* **ci:** bump npm-publish workflow to Node 22 ([#27](https://github.com/vergissberlin/node-red-contrib-say/issues/27)) ([11baf45](https://github.com/vergissberlin/node-red-contrib-say/commit/11baf45259ccb40860814e0ec961b0df20345a57))
+
 ## [0.4.1](https://github.com/vergissberlin/node-red-contrib-say/compare/node-red-contrib-say-v0.4.0...node-red-contrib-say-v0.4.1) (2026-08-09)
 
 
