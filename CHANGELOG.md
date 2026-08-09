@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.3](https://github.com/vergissberlin/node-red-contrib-say/compare/node-red-contrib-say-v0.4.2...node-red-contrib-say-v0.4.3) (2026-08-09)
+
+
+### Documentation
+
+* add AGENTS.md with Node.js version sync rule ([237f905](https://github.com/vergissberlin/node-red-contrib-say/commit/237f9053c6f007f95ebbf427ed53abf5b4947d83))
+* update Node.js compatibility to reflect pnpm v11 / engines.node bump ([9326f8f](https://github.com/vergissberlin/node-red-contrib-say/commit/9326f8f1304395bf5b4f79570bed950efa7a15d2))
+
 ## [0.4.2](https://github.com/vergissberlin/node-red-contrib-say/compare/node-red-contrib-say-v0.4.1...node-red-contrib-say-v0.4.2) (2026-08-09)
 
 
