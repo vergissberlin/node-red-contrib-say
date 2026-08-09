@@ -33,7 +33,7 @@ This makes it easy to:
 | | Version |
 | --- | --- |
 | **Supported Node-RED** | **4.x** (recommended; aligned with current Node-RED releases) |
-| **Node.js** | **18.x or newer** (CI tests **20** and **22** on Ubuntu and macOS) |
+| **Node.js** | **22.13 or newer** (CI tests **22** and **24** on Ubuntu and macOS) |
 
 Older Node-RED or Node.js versions may still work but are not covered by automated tests.
 
