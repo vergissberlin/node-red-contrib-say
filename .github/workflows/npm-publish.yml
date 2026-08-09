@@ -3,6 +3,11 @@ name: NPM Publish
 on:
   release:
     types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag to publish (e.g. node-red-contrib-say-v0.4.1)"
+        required: true
 
 jobs:
   publish:
@@ -11,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.release.tag_name }}
+          ref: ${{ github.event.release.tag_name || inputs.tag }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
