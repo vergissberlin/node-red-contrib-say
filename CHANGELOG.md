@@ -1,5 +1,28 @@
 # Changelog
 
+## [0.4.1](https://github.com/vergissberlin/node-red-contrib-say/compare/node-red-contrib-say-v0.4.0...node-red-contrib-say-v0.4.1) (2026-08-09)
+
+
+### Miscellaneous Chores
+
+* Configure Renovate ([8b6f22b](https://github.com/vergissberlin/node-red-contrib-say/commit/8b6f22bfe65dff6274945922470614b735032071))
+* **deps:** merge all open dependency update PRs ([#16](https://github.com/vergissberlin/node-red-contrib-say/issues/16), [#17](https://github.com/vergissberlin/node-red-contrib-say/issues/17), [#20](https://github.com/vergissberlin/node-red-contrib-say/issues/20)) ([39118e6](https://github.com/vergissberlin/node-red-contrib-say/commit/39118e66b7aa73cb20496ebced69b2c21692f65c))
+* **deps:** merge PR [#16](https://github.com/vergissberlin/node-red-contrib-say/issues/16) - update pnpm to v9.15.9 ([b4bb35e](https://github.com/vergissberlin/node-red-contrib-say/commit/b4bb35e62e5cd1127a7763b685fda8f4c90f11ef))
+* **deps:** merge PR [#17](https://github.com/vergissberlin/node-red-contrib-say/issues/17) - update eslint to v10.1.0 ([dc259b9](https://github.com/vergissberlin/node-red-contrib-say/commit/dc259b99aaf177f9f00dcd7ee223749f0d4f0751))
+* **deps:** merge PR [#20](https://github.com/vergissberlin/node-red-contrib-say/issues/20) - update pnpm to v10 (resolves conflict with [#16](https://github.com/vergissberlin/node-red-contrib-say/issues/16)) ([db98e30](https://github.com/vergissberlin/node-red-contrib-say/commit/db98e30cc5cb74c8caf4394eda9a8e7f12bf52b9))
+* **deps:** update dependency eslint to v10.1.0 ([2844364](https://github.com/vergissberlin/node-red-contrib-say/commit/2844364a46c7930d62245729b07a2b5e97c286a5))
+* **deps:** update dependency eslint to v10.8.1 ([#17](https://github.com/vergissberlin/node-red-contrib-say/issues/17)) ([3850c7e](https://github.com/vergissberlin/node-red-contrib-say/commit/3850c7e6020a29ca745076291e406c831905bacd))
+* **deps:** update pnpm to v10 ([37658be](https://github.com/vergissberlin/node-red-contrib-say/commit/37658be5cbb7c27a2e467bcd37f71e08958494b0))
+* **deps:** update pnpm to v10.34.5 ([#22](https://github.com/vergissberlin/node-red-contrib-say/issues/22)) ([3f75b34](https://github.com/vergissberlin/node-red-contrib-say/commit/3f75b34f3cfa5355239506a72d38bb79c4e20160))
+* **deps:** update pnpm to v11.21.0 ([8354404](https://github.com/vergissberlin/node-red-contrib-say/commit/83544045aad3fa725e6c9fd66596558366d91faf))
+* **deps:** update pnpm to v9.15.9 ([2a1c303](https://github.com/vergissberlin/node-red-contrib-say/commit/2a1c3030ad899171e0f40cfaae8fa03df0052b4e))
+* **release:** show all commit categories in release-please changelog ([c0f72e1](https://github.com/vergissberlin/node-red-contrib-say/commit/c0f72e13522b73071b4757939bb86c767979c316))
+
+
+### Continuous Integration
+
+* drop Node 20 from test matrix ([2fdeb97](https://github.com/vergissberlin/node-red-contrib-say/commit/2fdeb970d84eed5c33ea014467c4d1d577c26349))
+
 ## [0.4.0](https://github.com/programmerqeu/node-red-contrib-say/compare/node-red-contrib-say-v0.3.0...node-red-contrib-say-v0.4.0) (2026-03-21)
 
 
